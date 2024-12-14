@@ -1,0 +1,14 @@
+CMake Warning in C:/Users/5upvi/OneDrive/Desktop/SerAp/srvapp/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/5upvi/OneDrive/Desktop/SerAp/srvapp/android/app/.cxx/Debug/185z6q4n/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/./
+
+  has 182 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+

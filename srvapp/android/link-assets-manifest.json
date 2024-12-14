@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/coolvetica compressed hv.otf",
+      "sha1": "5d9cf84e5be7a2067f2a5cca5fa0320ae7626e1d"
+    },
+    {
+      "path": "src/assets/fonts/coolvetica condensed rg.otf",
+      "sha1": "aa263ea05445fc75f141f24122e71b31980a4030"
+    },
+    {
+      "path": "src/assets/fonts/coolvetica crammed rg.otf",
+      "sha1": "f06ba7d7d0966a75bdfa27a4555d832ad27c3a8b"
+    },
+    {
+      "path": "src/assets/fonts/coolvetica rg it.otf",
+      "sha1": "2f55678ab1d96c575b79412eeec6a742a7fca938"
+    },
+    {
+      "path": "src/assets/fonts/coolvetica rg.otf",
+      "sha1": "e0a13ed40b2b03e08ec645ff287c33338ea9f720"
+    },
+    {
+      "path": "src/assets/fonts/Okra-Bold.ttf",
+      "sha1": "fef01f34e3de57171aaef4d21430736a97a57e83"
+    },
+    {
+      "path": "src/assets/fonts/Okra-ExtraBold.ttf",
+      "sha1": "adb4b210b7bd6d118afc77ab7267aa6eb5af2477"
+    },
+    {
+      "path": "src/assets/fonts/Okra-Medium.ttf",
+      "sha1": "08cb46edd036cd9c7d5fb56ee346bf41cc75d26e"
+    },
+    {
+      "path": "src/assets/fonts/Okra-MediumLight.ttf",
+      "sha1": "aceb493dbf84ad53714a4ea5145b3258bc78907d"
+    },
+    {
+      "path": "src/assets/fonts/Okra-Regular.ttf",
+      "sha1": "add9f3d25f9629e6b375eb5cf4f33d5c3554d75c"
+    }
+  ]
+}

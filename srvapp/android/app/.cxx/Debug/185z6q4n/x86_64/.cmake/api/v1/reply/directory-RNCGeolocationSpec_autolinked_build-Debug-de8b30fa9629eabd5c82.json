@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNCGeolocationSpec_autolinked_build",
+		"source" : "C:/Users/5upvi/OneDrive/Desktop/SerAp/srvapp/node_modules/@react-native-community/geolocation/android/build/generated/source/codegen/jni"
+	}
+}
